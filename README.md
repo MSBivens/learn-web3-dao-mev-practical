@@ -1,13 +1,31 @@
-# Sample Hardhat Project
+# MEV Practical
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Created as part of the [Learn Web3 DAO](https://www.learnweb3.io/) Sophomore Tack.
 
-Try running some of the following tasks:
+This code was written for Level 14: MEV Practical
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Public tutorial not available at the time of this writing.
+
+This project creates a Flashboat capable of minting an NFT on the Goerli testnet.
+
+## Overview Info
+
+Chain: Ethereum
+
+Network: Goerli
+
+Languages: Solidity, JavaScript
+
+## This tutorial covers:
+
+- Creating a Flashbot
+- Testing with a fake NFT
+- Hardhat & Ethers.js
+
+## Technology/Websites used:
+
+- [Goerli](https://goerli.net/)
+- [Alchemy](https://www.alchemy.com/)
+- [Hardhat](https://hardhat.org/)
+- [Ethers.js](https://docs.ethers.io/v5/)
+- [Openzeppelin](https://www.openzeppelin.com/)
